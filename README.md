@@ -1,5 +1,5 @@
 # SMS-Spam-Classifier
 
-The model is uploaded on heroku and below is the link: 
+This is a working model of SMS Spam classifier made using libraries like nlp and tfidf along with MultiNomial Naive Bayes class  of sklearn.
 
-https://sms-spam-classifier-thinker.herokuapp.com/
+When a message is given to the model, the model read the content of the message and classify the message into Spam and Non Spam categories.
